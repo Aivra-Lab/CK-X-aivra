@@ -1,5 +1,5 @@
 # Base Image
-FROM nishanb/ck-x-simulator-vnc-base:v3
+FROM consol/debian-xfce-vnc:nightly
 
 # Switch to root user for installations
 USER 0
