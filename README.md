@@ -25,12 +25,12 @@ Watch live demo video showcasing the CK-X Simulator in action:
 
 #### Linux & macOS
 ```bash
-curl -fsSL https://raw.githubusercontent.com/nishanb/ck-x/master/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/kunalyadavaa/ck-x/master/scripts/install.sh | bash
 ```
 
 #### Windows ( make sure WSL2 is enabled in the docker desktop )
 ```powershell
-irm https://raw.githubusercontent.com/nishanb/ck-x/master/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/kunalyadavaa/ck-x/master/scripts/install.ps1 | iex
 ```
 
 ### Manual Installation
@@ -55,7 +55,7 @@ We welcome contributions! Whether you want to:
 
 ## Buy Me a Coffee ☕
 
-If you find CK-X Simulator helpful, consider [buying me a coffee](https://buymeacoffee.com/nishan.b) to support the project.
+If you find CK-X Simulator helpful, consider [buying me a coffee](:)) to support the project.
 
 ## Disclaimer
 
