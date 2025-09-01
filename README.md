@@ -25,7 +25,7 @@ Watch live demo video showcasing the CK-X Simulator in action:
 
 #### Linux & macOS
 ```bash
-curl -fsSL https://raw.githubusercontent.com/kunalyadavaa/ck-x/master/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Aivra-Lab/CK-X-aivra/master/scripts/install.sh | bash
 ```
 
 #### Windows ( make sure WSL2 is enabled in the docker desktop )
